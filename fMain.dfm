@@ -24,7 +24,6 @@ object FormMain: TFormMain
     Height = 13
     Align = alTop
     Caption = 'Suggestions:'
-    ExplicitTop = 85
     ExplicitWidth = 62
   end
   object Bevel1: TBevel
@@ -42,7 +41,7 @@ object FormMain: TFormMain
     Caption = 'Selected dictionary:'
   end
   object Label3: TLabel
-    Left = 8
+    Left = 30
     Top = 38
     Width = 73
     Height = 13
@@ -72,9 +71,6 @@ object FormMain: TFormMain
     Height = 207
     Align = alClient
     TabOrder = 2
-    ExplicitTop = 101
-    ExplicitWidth = 282
-    ExplicitHeight = 191
   end
   object StatusBar: TStatusBar
     Left = 0
@@ -83,7 +79,6 @@ object FormMain: TFormMain
     Height = 19
     Panels = <>
     SimplePanel = True
-    ExplicitWidth = 467
   end
   object bCheckAuto: TButton
     Tag = 1
@@ -102,9 +97,6 @@ object FormMain: TFormMain
     Height = 207
     Align = alRight
     TabOrder = 5
-    ExplicitLeft = 282
-    ExplicitTop = 101
-    ExplicitHeight = 191
   end
   object cbDiccionarios: TComboBox
     Left = 122
