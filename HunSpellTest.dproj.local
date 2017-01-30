@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899/12/30 00:00:00.000.pas,C:\Documents and Settings\Miha Vrhovnik\Desktop\hunspell\Unit1.pas=D:\Moji dokumenti\Borland Studio Projects\Unit1.pas</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.dfm,C:\Documents and Settings\Miha Vrhovnik\Desktop\hunspell\Unit1.dfm=D:\Moji dokumenti\Borland Studio Projects\Unit1.dfm</Transaction>
+    <Transaction>1899/12/30 00:00:00.000.bdsproj,C:\Documents and Settings\Miha Vrhovnik\Desktop\hunspell\Project1.bdsproj=D:\Moji dokumenti\Borland Studio Projects\Project1.bdsproj</Transaction>
+    <Transaction>2017/01/24 18:03:23.000.809,=D:\OneDrive\Documentos\Proyectos\Spell Checker\hunspell\uHunSpellLib.pas</Transaction>
+    <Transaction>2017/01/26 11:23:03.000.144,=D:\OneDrive\Documentos\Proyectos\Spell Checker\hunspell\jjfHunsSpell.pas</Transaction>
+    <Transaction>2017/01/26 11:24:22.000.540,D:\OneDrive\Documentos\Proyectos\Spell Checker\hunspell\jjfHunsSpell.pas=D:\OneDrive\Documentos\Proyectos\Spell Checker\hunspell\jjfHunSpell.pas</Transaction>
+    <Transaction>2017/01/30 10:18:04.000.944,D:\OneDrive\Documentos\Proyectos\Spell Checker\hunspell\HunSpellTest.dproj=D:\OneDrive\Documentos\Proyectos\Spell Checker\hunspell\Project1.dproj</Transaction>
+    <Transaction>2017/01/30 10:24:08.000.628,D:\OneDrive\Documentos\Proyectos\Spell Checker\hunspell\fMain.dfm=D:\OneDrive\Documentos\Proyectos\Spell Checker\hunspell\Unit1.dfm</Transaction>
+    <Transaction>2017/01/30 10:24:08.000.628,D:\OneDrive\Documentos\Proyectos\Spell Checker\hunspell\fMain.pas=D:\OneDrive\Documentos\Proyectos\Spell Checker\hunspell\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
